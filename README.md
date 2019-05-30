@@ -21,12 +21,19 @@ If you use this data set, please cite our Balto-Slavic NLP Workshop paper (2019)
 Machine Translation between English and Serbian:
 
 @InProceedings{imdb-mt2019,
+
   author    = {Pintu Lohar and Maja Popovi\'{c} and Andy Way},
+  
   title     = {{Building English-to-Serbian Machine Translation System for IMDb Movie Reviews}},
+  
   booktitle = {Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing (BSNLP 2019)},
+  
   month     = {August},
+  
   year      = {2019},
+  
   address   = {Florence, Italy},
+  
 }
 
 
