@@ -17,8 +17,8 @@ in progress, and at the time of our first experiment (in April 2019) Serbian ref
 These test sets are available here (imdb.{positive,negative}.test.apr19.{en,sr}), and we will be adding more segments 
 as soon as more translations are available.
 
-For the sake of completness we also added the training part imdb.train.en.tgz into this repository 
-(NOTE: available only in English!)
+For the sake of completness we also added the training set (imdb.train.en.tgz) into this repository 
+(IMPORTANT NOTE: available only in English! We used back (forward) translation in our MT experiments)
 
 If you use this data set, please cite our Balto-Slavic NLP Workshop paper (2019) which introduces its usage for 
 Machine Translation between English and Serbian:
