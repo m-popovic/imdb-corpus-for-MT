@@ -1,4 +1,4 @@
-# imdb-corpus-for-MT
+# IMDB Corpus for Machine Translation
 
 This data set is compiled from the publicly available "Large Movie Review Dataset" (http://ai.stanford.edu/~amaas/data/sentiment)
 which contains 50,000 IMDb user movie reviews in English. 
