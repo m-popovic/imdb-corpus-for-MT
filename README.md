@@ -14,6 +14,7 @@ remaining 49,800 reviews (about 500,000 sentences) for training.
 Human translation of the test set into Serbian and Croatian, which is necessary for fast automatic evaluation of MT output, is currently 
 in progress, and at the time of our first experiment (in April 2019) Serbian reference translations were available for 
 33 test reviews (17 negative and 16 positive) containing 485 sentences (208 negative and 277 positive). The same set was translated into Croatian in July 2020 and added here.
+
 These test sets are available here (**imdb.{positive,negative}.test.apr19.{en,sr,hr}**), and we will be adding more segments 
 as soon as more translations are available.
 
@@ -31,7 +32,6 @@ Machine Translation of IMDB reviews from English into Serbian:
   year      = {2019},
   address   = {Florence, Italy},
 }
-
 
 as well as the ACL 2011 paper which introduces the original corpus:
 
